@@ -1,2 +1,2 @@
 # Sistem-Operasi
-operation system class documentation
+operating system class documentation
